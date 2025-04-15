@@ -51,6 +51,16 @@
         "image": "/courses/vocals.jpg"
       },
       {
+        "id": 10,
+        "title": "Bass Guitar Basics",
+        "slug": "bass-guitar-basics",
+        "description": "Get grooving with bass lines, fingerstyle playing, and rhythm techniques.",
+        "price": 64.99,
+        "instructor": "Flea (Red Hot Chili Peppers)",
+        "isFeatured": false,
+        "image": "/courses/bass.jpg"
+      },
+      {
         "id": 6,
         "title": "Drumming Techniques for Beginners",
         "slug": "drumming-techniques",
@@ -89,17 +99,8 @@
         "instructor": "Deadmau5",
         "isFeatured": false,
         "image": "/courses/ableton.jpg"
-      },
-      {
-        "id": 10,
-        "title": "Bass Guitar Basics",
-        "slug": "bass-guitar-basics",
-        "description": "Get grooving with bass lines, fingerstyle playing, and rhythm techniques.",
-        "price": 64.99,
-        "instructor": "Flea (Red Hot Chili Peppers)",
-        "isFeatured": false,
-        "image": "/courses/bass.jpg"
       }
+      
     ]
   }
   
