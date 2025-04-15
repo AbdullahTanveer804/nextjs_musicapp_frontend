@@ -1,8 +1,9 @@
-import { main } from "motion/react-client";
+import HeroSection from "@/components/HeroSection";
 
 export default function Home () {
   return (
     <main className="">
+      <HeroSection/>
     </main>
   )
 }
