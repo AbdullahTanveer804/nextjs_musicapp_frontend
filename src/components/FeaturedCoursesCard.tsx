@@ -20,7 +20,7 @@ const FeaturedCoursesCard = () => {
   );
 
   return (
-    <section className="bg-[#0F172A] py-[75px] h-screen">
+    <section className="bg-[#0F172A] py-[75px] h-full">
       <div className="text-center">
         <h1 className="text-base font-semibold tracking-wide uppercase text-blue-500">
           Freatured Coueses
