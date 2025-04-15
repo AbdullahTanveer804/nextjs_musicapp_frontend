@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with step-by-step lessons and practice tips.",
+        "price": 99.99,
+        "instructor": "John Mayer",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Master simple melodies and chords on the piano, even if you've never played before.",
+        "price": 89.99,
+        "instructor": "Alicia Keys",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the building blocks of music—scales, chords, and harmonies.",
+        "price": 59.99,
+        "instructor": "Hans Zimmer",
+        "isFeatured": false,
+        "image": "/courses/theory.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Beat Making with FL Studio",
+        "slug": "beat-making-fl-studio",
+        "description": "Create your own beats and instrumentals using FL Studio and basic production techniques.",
+        "price": 129.99,
+        "instructor": "Metro Boomin",
+        "isFeatured": true,
+        "image": "/courses/flstudio.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Vocal Training Essentials",
+        "slug": "vocal-training-essentials",
+        "description": "Improve your vocal range, control, and tone with expert vocal exercises.",
+        "price": 69.99,
+        "instructor": "Ariana Grande",
+        "isFeatured": false,
+        "image": "/courses/vocals.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Drumming Techniques for Beginners",
+        "slug": "drumming-techniques",
+        "description": "Learn the fundamentals of drumming, rhythm, and basic fills.",
+        "price": 74.99,
+        "instructor": "Travis Barker",
+        "isFeatured": false,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 7,
+        "title": "DJ Mixing and Live Sets",
+        "slug": "dj-mixing-live",
+        "description": "Master the art of DJing with mixing, beatmatching, and creating live sets.",
+        "price": 139.99,
+        "instructor": "David Guetta",
+        "isFeatured": true,
+        "image": "/courses/dj.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Songwriting Masterclass",
+        "slug": "songwriting-masterclass",
+        "description": "Write meaningful and catchy lyrics with songwriting techniques used by pros.",
+        "price": 84.99,
+        "instructor": "Ed Sheeran",
+        "isFeatured": true,
+        "image": "/courses/songwriting.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Music Production with Ableton Live",
+        "slug": "music-production-ableton",
+        "description": "Learn electronic music production and workflow using Ableton Live.",
+        "price": 149.99,
+        "instructor": "Deadmau5",
+        "isFeatured": false,
+        "image": "/courses/ableton.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Bass Guitar Basics",
+        "slug": "bass-guitar-basics",
+        "description": "Get grooving with bass lines, fingerstyle playing, and rhythm techniques.",
+        "price": 64.99,
+        "instructor": "Flea (Red Hot Chili Peppers)",
+        "isFeatured": false,
+        "image": "/courses/bass.jpg"
+      }
+    ]
+  }
+  
