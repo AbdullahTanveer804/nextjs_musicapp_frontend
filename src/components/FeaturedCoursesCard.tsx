@@ -20,12 +20,12 @@ const FeaturedCoursesCard = () => {
   );
 
   return (
-    <section className="bg-[#0F172A] py-[75px] h-full">
+    <section className="bg-[#212529] py-[75px] h-full">
       <div className="text-center">
-        <h1 className="text-base font-semibold tracking-wide uppercase text-blue-500">
+        <h1 className="text-base font-semibold tracking-wide  text-blue-500">
           Freatured Coueses
         </h1>
-        <p className="text-3xl m-2 tracking-wide font-extrabold">
+        <p className="text-3xl m-2 tracking-wide uppercase font-extrabold">
           Learn With the Best
         </p>
       </div>
@@ -57,7 +57,7 @@ const FeaturedCoursesCard = () => {
 
       <div className="flex justify-center items-center mt-12">
         <button
-          className="bg-blue-500 px-4 py-2 rounded-full font-semibold hover:bg-blue-600 transition 
+          className="bg-blue-600 px-4 py-2 rounded-full font-semibold hover:bg-blue-700 transition 
             duration-300 ease-in-out"
         >
           View All Courses
