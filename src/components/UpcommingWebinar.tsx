@@ -50,7 +50,7 @@ const webinars = [
 
 const UpcommingWebinar = () => {
   return (
-    <section className="bg-[#212529] py-[75px] h-svh">
+    <section className="bg-[#212529] py-[75px] md:h-svh h-full">
       <div className="text-center">
         <h1 className="text-base font-semibold tracking-wide  text-blue-500">
           Upcoming Webinars
